@@ -1,0 +1,71 @@
+What is Webpack?
+	- Module Bundler
+	- Custom Files or NPM Installed
+	- Generates Static Assets
+	- Extend with Plugins & Loaders
+
+Properties of a Module
+	- Discrete chunk of functionality
+	- Abstraction
+	- Encapsulation
+	- Usually a single task or responsibility
+	- Reusable
+
+How is Webpack Different?
+	- Code splitting
+	- Loders (CSS, SASS, JSX, etc)
+	- Clever Parsing (require("./templates/" + name + ".jade"))
+	- Plugins
+
+Example Loaders
+	- CSS & Style
+	- Sass & Less
+	- JSX (React)
+	- Babel
+	- Coffe
+	- TypeScript
+	- EJS, Pug, Handlebars
+	- json
+
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
+SKOŃCZYŁEŚ na 4:20
