@@ -27,45 +27,35 @@ Example Loaders
 	- EJS, Pug, Handlebars
 	- json
 
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
-SKOŃCZYŁEŚ na 4:20
+Webpack Installation 
+	npm install -g webpack
+
+	// To use dev server
+	npm intall Webpack-dev-server
+
+
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+Skończyłeś na 6:30!!!!
+
